@@ -60,7 +60,7 @@ echo
 ## Delete file.ext
 ## Default: Commit skipped|forgotten
 
-git commit -m "Docusaurus"
+git commit -m "Functional Docusaurus at Github"
 
 ############
 # Step: 05 #
